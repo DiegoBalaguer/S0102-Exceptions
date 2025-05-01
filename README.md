@@ -282,4 +282,4 @@ You can find the source code on GitHub:
 
 Feel free to fork, clone, or contribute to enhance the project. These exercises are designed as building blocks to strengthen your understanding of Java OOP through hands-on practice.
 
-Happy coding! 🚀"# S0102-Exceptions" 
+Happy coding! 🚀
